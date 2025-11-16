@@ -1,1 +1,1 @@
-# oop2_3_points
+# Kyarimov_Amirkhan_lb2 (3 points)
